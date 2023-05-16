@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oy 👋
 
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=juliamacc&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=dracula" width="440"/>
